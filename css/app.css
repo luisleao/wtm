@@ -18,7 +18,7 @@ section.top .logo-spot .menu ul li:last-child {}
 
 section.content {color: #858585;font-weight: 300;}
 section.content p {font-size: 19px;margin: 0 2em 1em 0;}
-section.content span.card-title {font-size: 36px; color: #01579b;line-height: 2em;}
+section.content span.card-title {font-size: 36px; color: #272727;line-height: 2em;}
 
 
 section.content #quem-somos{padding: 2.5em 0;}
@@ -29,7 +29,7 @@ section.content #iniciativa {padding: 2.5em 0;}
 section.content #iniciativa .card { position: relative; margin: 0.5rem 0 1rem 0; background-color: #fff; transition: box-shadow .25s; border-radius: 2px;}
 
 section.content #agenda {background-color: #F3F3F3;}
-section.content #agenda span.card-title {color: #01579b;}
+section.content #agenda span.card-title {color: #005449;}
 section.content #agenda .header {padding: 2em 0 0;}
 section.content #agenda .header span.card-title { }
 
@@ -54,11 +54,11 @@ section.content #agenda .past-events .btn-flat {margin-top: 2.3em;}
 section.content #agenda .past-events .event-name {font-size: 1.2em; margin: 0;line-height: 1.2em; font-weight: 400;margin-top: .5em;}
 section.content #agenda .past-events .event-theme {font-size: 1.4em; margin: 0; line-height: 1.2em; font-weight: 400;}
 
-section.content #equipe {background-color: #D2D2D2;padding-bottom: 3em;}
-section.content #equipe span.card-title {color: #01579b;}
+section.content #equipe {background-color: #b0bec5;padding-bottom: 3em;}
+section.content #equipe span.card-title {color: #263238;}
 section.content #equipe .header {padding: 2em 0 0;text-align: center;}
-section.content #equipe .header p{color: #263244;}
-section.content #equipe .header a{color: #039be5;}
+section.content #equipe .header p{color: #fff;}
+section.content #equipe .header a{color: #263238;}
 section.content #equipe .header span.card-title { }
 section.content #equipe .members span.card-title {color: #78909c !important;font-size: 1.4em;margin: 0;padding: 0;}
 section.content #equipe .members p {font-size: 1.4em;font-weight: 300;margin: 0;}
@@ -70,11 +70,11 @@ section.content #equipe .members .social-buttons ul li{display: inline-block;}
 
 
 section.content #contato { }
-section.content #contato span.card-title { color: #01579b; }
+section.content #contato span.card-title { color: #263238; }
 section.content #contato .header {padding: 4em 0; text-align: center;}
 section.content #contato .button-enviar { margin: 2em auto 2em; display: block; }
 section.content #contato #thankyou_message { text-align: center; font-weight: 400 }
-section.content #contato .social-media {background-color: #white;padding: 1em 0;}
+section.content #contato .social-media {background-color: #E8E8E8;padding: 1em 0;}
 section.content #contato .social-media p{color: #263244;margin: 0;}
 section.content #contato .social-media a{color: #263244;font-size: 4em;}
 section.content #contato .social-media ul{
