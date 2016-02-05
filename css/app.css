@@ -71,16 +71,29 @@ section.content #equipe .members .social-buttons ul li{display: inline-block;}
 
 section.content #contato { }
 section.content #contato span.card-title { color: #01579b; }
-section.content #contato .header {padding: 4em 0; text-align: center;}
+section.content #contato .header {padding: 3em 0; text-align: center;}
 section.content #contato .button-enviar { margin: 2em auto 2em; display: block; }
 section.content #contato #thankyou_message { text-align: center; font-weight: 400 }
-section.content #contato .social-media {background-color: #white;padding: 1em 0;}
+section.content #contato .social-media {background-color: #white; border-bottom: 1px solid #f2f2f2;padding: 0;}
 section.content #contato .social-media p{color: #263244;margin: 0;}
 section.content #contato .social-media a{color: #263244;font-size: 4em;}
 section.content #contato .social-media ul{
     margin: 0;
 }
 section.content #contato .social-media ul li{display: inline-block;}
+
+/*section.content .supporters { }*/
+section.content .supporters span.card-title { color: #01579b; }
+section.content .supporters .header {padding: 3em 0; text-align: center;}
+section.content .supporters .button-enviar { margin: 2em auto 2em; display: block; }
+section.content .supporters #thankyou_message { text-align: center; font-weight: 400 }
+section.content .supporters {background-color: #white;padding: 0 0;}
+section.content .supporters p{color: #263244;margin: 0 0 10px 0;}
+section.content .supporters a{color: #263244;font-size: 4em;}
+section.content .supporters ul{
+    margin: 0;
+}
+section.content .supporters ul li{display: inline-block; vertical-align: middle; margin: 0 20px;}
 
 footer {}
 footer .about-us{margin: 2em 0;}
